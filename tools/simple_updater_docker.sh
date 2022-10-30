@@ -11,9 +11,9 @@
 ROOT_PATH="Your root path f.e. (/home/user"
 NFI_PATH="${ROOT_PATH}/NFI/NostalgiaForInfinityX.py"
 FT_PATH="${ROOT_PATH}/ft_userdata/user_data/strategies/NostalgiaForInfinityX.py"
-TG_TOKEN=""
-TG_CHAT_ID=""
-GIT_URL="https://github.com/iterativv/NostalgiaForInfinity"
+TG_TOKEN="5661366820:AAFOlpOxiUCyfW8bH-tjKZLLcNkj2Xeb0d8"
+TG_CHAT_ID="1087333523"
+GIT_URL="https://github.com/docugs/NostalgiaForInfinity"
 
 # Go to NFI directory
 cd $(dirname ${NFI_PATH})
